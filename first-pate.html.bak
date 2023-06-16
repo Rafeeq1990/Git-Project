@@ -7,14 +7,14 @@
 
 </head>
 
-<body style="background-color:yellow;">
+<body style="background-color:#90EE90;">
 
 <h1>My First Page in Html</h1>
 
 <img src="images/mohammad-Rafeeq-photo.jpg" height="300" widht="300"/>
 
 
-<p style="color:blue; font-family:Arial;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p style="color:black; font-family:Arial;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
 <a href="http://www.vayavyalab.com" target="_blank">visit vayavyalab</a>
 
@@ -26,7 +26,28 @@
 
 </ul>
 
-
+<table border="1">
+<tr style="background-color:#FED8B1;">
+<th>Employee code</th>
+<th>Employee Name</th>
+<th>Employee Designation</th>
+</tr>
+<tr>
+<td>366125</td>
+<td>Siddharth Ramiah</td>
+<td>Documentation Engineer</td>
+</tr>
+<tr>
+<td>366123</td>
+<td>Rajesh Dhaiah</td>
+<td>Technical Writer</td>
+</tr>
+<tr>
+<td>366892</td>
+<td>Mohammad Rafeeq</td>
+<td>Technical Author</td>
+</tr>
+</table>
 
 </body>
 
