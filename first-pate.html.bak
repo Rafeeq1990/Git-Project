@@ -11,7 +11,7 @@
 
 <h1>My First Page in Html</h1>
 
-<img src="images/mohammad-Rafeeq-photo.jpg" height="300" widht="300"/>
+<img src="images/mohammad-Rafeeq-photo.jpg" height="200" widht="200"/>
 
 
 <p style="color:black; font-family:Arial;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
@@ -27,7 +27,7 @@
 </ul>
 
 <table border="1">
-<tr style="background-color:#FED8B1;">
+<tr style="background-color:#FED8B1	;">
 <th>Employee code</th>
 <th>Employee Name</th>
 <th>Employee Designation</th>
@@ -48,6 +48,10 @@
 <td>Technical Author</td>
 </tr>
 </table>
+
+<br/><br/>
+
+<marquee  style="background-color:F07156; font-size:24px; color:#ffffff; line-height:24px;" direction="left" speed="3000">Upcoming Events of July 2023</marquee>
 
 </body>
 
