@@ -16,7 +16,11 @@
 
 <p style="color:black; font-family:Arial;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
+<br/>
+
 <a href="http://www.vayavyalab.com" target="_blank">visit vayavyalab</a>
+
+<br/>
 
 <ul>
 
@@ -25,6 +29,8 @@
 <li>Cappuccina</li>
 
 </ul>
+
+<br/>
 
 <table border="1">
 <tr style="background-color:#FED8B1	;">
@@ -50,7 +56,7 @@
 </table>
 <br/>
 <marquee  style="background-color:F07156; font-size:24px; color:#ffffff; line-height:24px;" direction="left" speed="1000">Upcoming Events of July 2023</marquee>
-<br/>
+<br/><br/><br/>
 <iframe src="about-us.html" height="300" width="300" title="Iframe Example"></iframe>
 </body>
 </html>
