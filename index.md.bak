@@ -1,0 +1,132 @@
+#My First MarkDown Document
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+[Visit Vayavya Labs!](http://www.vayavyalab.ocm)
+
+##Unordered List
+
+ * Tea
+ * Coffee
+ * Cappuccino
+ 
+ ![My Snapshot](images/mohammad-Rafeeq-photo.jpg)
+ 
+ 
+ ### Ordered List
+ 
+ 1. Television
+ 2. Radio
+ 3. Referigerator
+ 4. Washing Machine
+
+
+## Blockquotes
+
+>Why do we use it?
+>
+>It is a long **established** fact that a reader will be distracted by the _readable_ content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable **_English_**. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+##### Reference Links 
+
+
+[visit BlackBox][networking company]
+
+[networking company]:http://www.blackbox.company
+
+
+![tiger image!](http://www.savanas.com)
+
+
+### Inline Code
+
+It is an inline `code`.
+
+### Java CodeBlock Example
+
+``` java
+public class SwapNumbers  {
+
+public static void Main(String[] args)
+
+{
+int a=5;
+int b=10;
+int temp;
+
+System.Out.Println("The Value before Swap!");
+System.Out.Println("The Value of a is:" +a);a
+System.Out.Prinln("The Value of b is :" +b);
+
+temp = a;
+a=b;
+b=temp;
+
+System.Out.Println("The Value of after Swap!");
+System.Out.Println("The Value of a is:" +a);
+System.Out.Println("The Value of b is:" +b);
+}
+}
+```
+
+## Tables
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates.|
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files. |
+
+Right aligned columns
+
+| Option | Description |
+| ------ | ----------- |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files | 
+
+
+## Plugins
+
+The killer feature of `markdown-it` is very effective support of [Syntax Plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+
+
+### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+
+> Classic markup: :wink: :crush: :cry: :tear: :laughing:  :yum:
+>
+> Shortcuts (Emoticons): :-) :-(  8-) ;)
+
+see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji. 
+
+### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+
+* 19^th^
+* H~2~O	
+
+++Inserted Text++
+
+### [Footnote](https://github.com/markdown-it/markdown-it-footnote)
+
+Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote[^3] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Footnote **can have markup**
+
+        and multiple paragraphs.
+
+
+
+
+
+
+
+
+ 
+ 
+ 
