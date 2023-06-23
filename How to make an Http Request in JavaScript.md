@@ -1,12 +1,10 @@
 # How do I make an HTTP request in Javascript?
 
-To make an HTTP request in JavaScript, you can use the built-in `**XMLHttpRequest**` object or the newer `**fetch**` API. Here's an example of how to use both methods:
+To make an HTTP request in JavaScript, you can use the built-in **XMLHttpRequest** object or the newer **fetch** API. Here's an example of how to use both methods:
 
 1. Using XMLHttpRequest:
 
-```
-JavaScript
-
+```javascript
 var xhr = new XMLHttpRequest();
 xhr.open('GET', 'https://api.example.com/data', true);
 
@@ -27,8 +25,8 @@ xhr.send();
 
 2. Using fetch:
 
-```
-JavaScript
+```javascript
+
 fetch('https://api.example.com/data', {
   method: 'GET',
   headers: {

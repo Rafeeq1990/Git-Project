@@ -1,0 +1,15 @@
+# What is API (Application Programming Interface)
+
+API stands for Application Programming Interface. It is a set of rules and protocols that allows different software applications to communicate with each other. APIs define how different software components should interact and specify the methods and data formats to be used for communication.
+
+In the context of web development, an API often refers to a set of endpoints (URLs) exposed by a server that allows clients (such as web browsers or mobile apps) to interact with the server and access its resources or perform certain operations. These endpoints typically follow a specific set of rules (such as RESTful principles) and are accessed using HTTP methods like **GET**, **POST**, **PUT**, **DELETE**, etc.
+
+APIs enable developers to integrate different systems, services, or data sources into their own applications without having to build everything from scratch. By providing a well-defined interface, APIs allow developers to make requests to a server and receive responses in a standardized format, such as JSON or XML. This enables the exchange of data and functionality between different software components, facilitating the development of complex and interconnected applications.
+
+APIs can serve various purposes, such as retrieving data from a remote server, sending data to a server, performing actions or operations, authenticating users, and more. They are widely used in web and mobile development, enabling developers to leverage the functionality and data of external services, libraries, or platforms to enhance their own applications.
+
+
+
+
+
+
