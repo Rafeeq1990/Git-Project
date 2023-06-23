@@ -118,3 +118,14 @@ x^2^
 ## Heading Tasks
 
 [Heading IDS](#task-id)
+
+
+### Definition Lists
+Coffee
+: A black Hot Drink!
+
+Milk
+: A White Cold Drink
+
+Cappucino
+: A white and Black Cold Cream Drink
