@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://savanas.com/xmlrpc.php" />
+<link rel="shortcut icon" href="//savanas.com/wp-content/uploads/2019/01/Savanas-Favicon.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="//savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPhone.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPhoneRetina.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPad.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPadRetina.png">
+<title>Savanas &#8211; Raízes fortes transformam o mundo</title>
+<style rel="stylesheet" property="stylesheet" type="text/css">.ms-loading-container .ms-loading, .ms-slide .ms-slide-loading { background-image: none !important; background-color: transparent !important; box-shadow: none !important; } #header .logo { max-width: 100px; } @media (min-width: 1270px) { #header .logo { max-width: 100px; } } @media (max-width: 991px) { #header .logo { max-width: 100px; } } @media (max-width: 767px) { #header .logo { max-width: 100px; } } </style><link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Savanas &raquo;" href="http://savanas.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Savanas &raquo;" href="http://savanas.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/savanas.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://savanas.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='http://savanas.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='rs-plugin-settings-css'  href='http://savanas.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//savanas.com/wp-content/cache/wpfc-minified/ffxizk84/2dzgq.css" media="all"/>
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+.tparrows:before{color:#c42821;text-shadow:0 0 3px #fff;}.revslider-initialised .tp-loader{z-index:18;}
+</style>
+<!-- <link rel='stylesheet' id='instag-slider-css'  href='http://savanas.com/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css?ver=1.4.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='js_composer_front-css'  href='http://savanas.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.5' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='porto-bootstrap-css'  href='http://savanas.com/wp-content/themes/Savanas/css/bootstrap_1.css?ver=5.2.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='porto-plugins-css'  href='http://savanas.com/wp-content/themes/Savanas/css/plugins.css?ver=5.2.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//savanas.com/wp-content/cache/wpfc-minified/g110nud2/2dzgq.css" media="all"/>
+<link rel='stylesheet' id='porto-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A200%2C300%2C400%2C700%2C800%7COpen+Sans%3A200%2C300%2C400%2C700%2C800%7CNoto+Serif%3A200%2C300%2C400%2C700%2C800%7C&#038;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Ckhmer%2Clatin%2Clatin-ext%2Cvietnamese&#038;ver=5.2.2' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='porto-theme-css'  href='http://savanas.com/wp-content/themes/Savanas/css/theme.css?ver=5.2.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='porto-dynamic-style-css'  href='http://savanas.com/wp-content/themes/Savanas/css/dynamic_style_1.css?ver=5.2.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='porto-skin-css'  href='http://savanas.com/wp-content/themes/Savanas/css/skin_1.css?ver=5.2.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='porto-style-css'  href='http://savanas.com/wp-content/themes/Savanas/style.css?ver=5.2.2' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//savanas.com/wp-content/cache/wpfc-minified/lwq0pqht/2dzgq.css" media="all"/>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='porto-ie-css'  href='http://savanas.com/wp-content/themes/Savanas/css/ie.css?ver=5.2.2' type='text/css' media='all' />
+<![endif]-->
+<script src='//savanas.com/wp-content/cache/wpfc-minified/dezjkd1l/2dzgq.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://savanas.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.4'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.4'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-content/plugins/instagram-slider-widget/assets/js/jquery.flexslider-min.js?ver=2.2'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-content/themes/Savanas/js/popper.min.js?ver=4.2'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-content/themes/Savanas/js/bootstrap.min.js?ver=4.2'></script> -->
+<!-- <script type='text/javascript' src='http://savanas.com/wp-content/themes/Savanas/js/plugins.min.js?ver=4.2'></script> -->
+<link rel='https://api.w.org/' href='http://savanas.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://savanas.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://savanas.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel="canonical" href="http://savanas.com/" />
+<link rel='shortlink' href='http://savanas.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://savanas.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsavanas.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://savanas.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsavanas.com%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://savanas.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.6.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://savanas.com/wp-content/uploads/2019/01/cropped-Savanas-Favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://savanas.com/wp-content/uploads/2019/01/cropped-Savanas-Favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://savanas.com/wp-content/uploads/2019/01/cropped-Savanas-Favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://savanas.com/wp-content/uploads/2019/01/cropped-Savanas-Favicon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+}catch(d){console.log("Failure at Presize of Slider:"+d)}
+};</script>
+<style type="text/css" title="dynamic-css" class="options-output">p{font-family:Roboto;line-height:27px;font-weight:400;color:#3f3e3e;font-size:18px;}#footer,#footer p{font-family:Roboto;line-height:25px;font-weight:400;color:#ffffff;font-size:16px;}#footer h1,#footer h2,#footer h3,#footer h4,#footer h5,#footer h6,#footer .widget-title,#footer .widget-title a,#footer .widgettitle,#footer .widgettitle a{font-family:"Noto Serif";font-weight:400;color:#c42821;}</style><style type="text/css" data-type="vc_custom-css">.main-content {
+padding-bottom: 0px !important;
+padding-top: 0px !important;
+}
+.text-italic {
+font-style: italic;
+}
+.investrzs-sec {
+min-height: 750px;
+background-repeat: no-repeat;
+background-size: contain;
+background-position: right bottom;
+}
+.vc_custom_1550519129954 {
+background-repeat: no-repeat;
+background-position: right center;
+}
+.text-white p {
+color: #b4af9c;
+}
+.sobre-savanas {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center bottom;
+}
+.btn-svns-normal a {
+border: unset !important;
+background-color: #b4af9c !important;
+color: #fff !important;
+border-radius: 1px !important;
+font-family: Noto serif;
+font-weight: 400;
+font-size: 18px !important;
+line-height: 20px !important;
+padding: 10px 60px !important;
+transition: 0.2s;
+}
+.btn-svns-normal a:hover, .btn-svns-normal a:focus, .btn-svns-normal a:active {
+background-color: #c42821 !important;
+color: #fff !important;
+}
+.btn-svns-light a {
+border: unset !important;
+background-color: #b4af9c !important;
+color: #fff !important;
+border-radius: 1px !important;
+font-family: Noto serif;
+font-weight: 400;
+font-size: 18px !important;
+line-height: 20px !important;
+padding: 10px 60px !important;
+transition: 0.2s;
+}
+.btn-svns-light a:hover, .btn-svns-light a:focus, .btn-svns-light a:active {
+background-color: #fff !important;
+color: #c42821 !important;
+}
+.text-large p {
+font-size: 21px;
+line-height: 30px;
+}
+@media (max-width: 767px) {
+.textinvert-mobile {
+text-align: left;
+}
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1550509444130{padding-top: 0px !important;background-image: url(http://savanas.com/wp-content/uploads/2019/01/Savanas-Home-InvestimentosSaoRaizes2.png?id=742) !important;}.vc_custom_1556310151794{background-image: url(http://savanas.com/wp-content/uploads/2019/04/Savanas-QuemSomos.jpg?id=850) !important;}.vc_custom_1557340136950{background-image: url(http://savanas.com/wp-content/uploads/2019/02/Savanas-Home-Investimentos.png?id=833) !important;}.vc_custom_1556581377707{padding-right: 0px !important;padding-left: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
+<script type="text/javascript">
+</script>
+</head>
+<body class="home page-template-default page page-id-718 full blog-1  wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+<div class="page-wrapper"><!-- page wrapper -->
+<div class="header-wrapper fixed-header clearfix"><!-- header wrapper -->
+<header id="header" class="header-corporate header-11 search-sm">
+<div class="header-main">
+<div class="container">
+<div class="header-left">
+<h1 class="logo">    <a href="http://savanas.com/" title="Savanas - Raízes fortes transformam o mundo" rel="home">
+<img class="img-responsive standard-logo" src="//savanas.com/wp-content/uploads/2019/01/Savanas-Marca-Prinicipal.png" alt="Savanas" /><img class="img-responsive retina-logo" src="//savanas.com/wp-content/uploads/2019/01/Savanas-Marca-Prinicipal.png" alt="Savanas" style="max-height:px;display:none;" />            </a>
+</h1>            </div>
+<div class="header-right">
+<div id="main-menu">
+<ul id="menu-savanas" class="main-menu mega-menu show-arrow effect-down subeffect-fadein-left"><li id="nav-menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-718 current_page_item active narrow "><a href="http://savanas.com/" class=" current">Savanas</a></li>
+<li id="nav-menu-item-768" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://savanas.com/quem-somos/" class="">Quem Somos</a></li>
+<li id="nav-menu-item-716" class="menu-item menu-item-type-custom menu-item-object-custom  narrow "><a href="#Contato" class="">Contato</a></li>
+</ul>                </div>
+<a class="mobile-toggle"><i class="fa fa-reorder"></i></a>
+</div>
+</div>
+<div id="nav-panel" class="">
+<div class="container">
+<div class="mobile-nav-wrap">
+<div class="menu-wrap"><ul id="menu-savanas-1" class="mobile-menu accordion-menu"><li id="accordion-menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-718 current_page_item active"><a href="http://savanas.com/" rel="nofollow" class=" current ">Savanas</a></li>
+<li id="accordion-menu-item-768" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://savanas.com/quem-somos/" rel="nofollow" class="">Quem Somos</a></li>
+<li id="accordion-menu-item-716" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="#Contato" rel="nofollow" class="">Contato</a></li>
+</ul></div>        </div>
+</div>
+</div>
+</div>
+</header>
+</div><!-- end header wrapper -->
+<div class="banner-container">
+<div id="banner-wrapper" class="">
+<link href="http://fonts.googleapis.com/css?family=Noto+Serif:400%2C700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background:transparent;padding:0px;">
+<!-- START REVOLUTION SLIDER 5.4.6.4 fullscreen mode -->
+<div id="rev_slider_4_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.6.4">
+<ul>	<!-- SLIDE  -->
+<li data-index="rs-8" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://savanas.com/wp-content/uploads/2019/03/Savanas_RaizesFortes-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="http://savanas.com/wp-content/uploads/2019/03/Savanas_RaizesFortes.jpg"  alt="" title="Savanas_RaizesFortes"  width="1920" height="1080" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 1 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-8-layer-1" 
+data-x="['center','center','center','center']" data-hoffset="['-221','-161','0','0']" 
+data-y="['top','top','top','top']" data-voffset="['322','322','355','407']" 
+data-fontsize="['80','80','80','50']"
+data-lineheight="['80','80','80','50']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":210,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 5; white-space: nowrap; font-size: 80px; line-height: 80px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">Raizes fortes </div>
+<!-- LAYER NR. 2 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-8-layer-2" 
+data-x="['center','center','center','center']" data-hoffset="['-120','-60','0','0']" 
+data-y="['top','top','middle','middle']" data-voffset="['398','398','0','32']" 
+data-fontsize="['80','80','80','50']"
+data-lineheight="['80','80','80','50']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":350,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 80px; line-height: 80px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">transformam </div>
+<!-- LAYER NR. 3 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-8-layer-3" 
+data-x="['center','center','center','center']" data-hoffset="['-120','-60','0','0']" 
+data-y="['top','top','top','top']" data-voffset="['482','482','522','525']" 
+data-fontsize="['80','80','80','50']"
+data-lineheight="['80','80','80','50']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":460,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; white-space: nowrap; font-size: 80px; line-height: 80px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">o mundo. </div>
+</li>
+<!-- SLIDE  -->
+<li data-index="rs-9" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://savanas.com/wp-content/uploads/2019/04/Savanas_PerpetuarRepensarDesenvolver-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="http://savanas.com/wp-content/uploads/2019/04/Savanas_PerpetuarRepensarDesenvolver.jpg"  alt="" title="Savanas_PerpetuarRepensarDesenvolver"  width="1920" height="1080" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 4 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-9-layer-1" 
+data-x="['center','center','center','center']" data-hoffset="['-217','-148','6','0']" 
+data-y="['top','top','top','top']" data-voffset="['347','315','371','390']" 
+data-fontsize="['60','60','60','40']"
+data-lineheight="['60','60','60','40']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":210,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">Perpetuar valores, </div>
+<!-- LAYER NR. 5 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-9-layer-2" 
+data-x="['center','center','center','center']" data-hoffset="['-108','-44','6','-2']" 
+data-y="['top','middle','middle','middle']" data-voffset="['422','21','0','0']" 
+data-fontsize="['60','60','60','40']"
+data-lineheight="['60','60','60','40']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":350,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 60px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">desenvolver pessoas </div>
+<!-- LAYER NR. 6 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-9-layer-3" 
+data-x="['center','center','center','center']" data-hoffset="['-39','23','6','-2']" 
+data-y="['top','top','top','top']" data-voffset="['494','463','522','486']" 
+data-fontsize="['60','60','60','40']"
+data-lineheight="['60','60','60','40']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":460,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; white-space: nowrap; font-size: 60px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;"> e repensar negócios. </div>
+</li>
+<!-- SLIDE  -->
+<li data-index="rs-10" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://savanas.com/wp-content/uploads/2019/03/Savanas_VemdaTerra-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+<!-- MAIN IMAGE -->
+<img src="http://savanas.com/wp-content/uploads/2019/03/Savanas_VemdaTerra.jpg"  alt="" title="Savanas_VemdaTerra"  width="1920" height="1080" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+<!-- LAYERS -->
+<!-- LAYER NR. 7 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-10-layer-1" 
+data-x="['center','center','center','center']" data-hoffset="['-82','-48','0','0']" 
+data-y="['top','top','top','top']" data-voffset="['390','328','364','400']" 
+data-fontsize="['60','60','50','33']"
+data-lineheight="['60','60','50','33']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":210,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">Transformar a sociedade </div>
+<!-- LAYER NR. 8 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-10-layer-2" 
+data-x="['center','center','center','center']" data-hoffset="['17','37','0','0']" 
+data-y="['middle','middle','middle','middle']" data-voffset="['0','26','-21','0']" 
+data-fontsize="['60','60','50','33']"
+data-lineheight="['60','60','50','33']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":350,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 6; white-space: nowrap; font-size: 60px; line-height: 60px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;">por meio de investimentos </div>
+<!-- LAYER NR. 9 -->
+<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+id="slide-10-layer-3" 
+data-x="['center','center','center','center']" data-hoffset="['-125','-92','10','-1']" 
+data-y="['top','top','top','top']" data-voffset="['526','462','502','491']" 
+data-fontsize="['60','60','50','33']"
+data-lineheight="['60','60','50','33']"
+data-width="none"
+data-height="none"
+data-whitespace="nowrap"
+data-type="text" 
+data-responsive_offset="on" 
+data-frames='[{"delay":460,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:50px;opacity:0;","ease":"Power3.easeInOut"}]'
+data-textAlign="['inherit','inherit','inherit','inherit']"
+data-paddingtop="[0,0,0,0]"
+data-paddingright="[0,0,0,0]"
+data-paddingbottom="[0,0,0,0]"
+data-paddingleft="[0,0,0,0]"
+style="z-index: 7; white-space: nowrap; font-size: 60px; line-height: 60px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Noto Serif;"> de impacto. </div>
+</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement("div");
+htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement("div");
+htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_4_1'), responsiveLevels: [1240,1024,778,480], gridwidth: [1240,1024,778,480], gridheight: [968,800,960,920], sliderLayout: 'fullscreen', fullScreenAutoWidth:'off', fullScreenAlignForce:'off', fullScreenOffsetContainer:'', fullScreenOffset:''});
+var revapi4,
+tpj=jQuery;
+tpj(document).ready(function() {
+if(tpj("#rev_slider_4_1").revolution == undefined){
+revslider_showDoubleJqueryError("#rev_slider_4_1");
+}else{
+revapi4 = tpj("#rev_slider_4_1").show().revolution({
+sliderType:"standard",
+jsFileLocation:"//savanas.com/wp-content/plugins/revslider/public/assets/js/",
+sliderLayout:"fullscreen",
+dottedOverlay:"none",
+delay:5000,
+navigation: {
+keyboardNavigation:"off",
+keyboard_direction: "horizontal",
+mouseScrollNavigation:"off",
+mouseScrollReverse:"default",
+onHoverStop:"off",
+bullets: {
+enable:true,
+hide_onmobile:false,
+style:"ares",
+hide_onleave:false,
+direction:"horizontal",
+h_align:"center",
+v_align:"bottom",
+h_offset:0,
+v_offset:20,
+space:5,
+tmp:'<span class="tp-bullet-title">{{title}}</span>'
+}
+},
+responsiveLevels:[1240,1024,778,480],
+visibilityLevels:[1240,1024,778,480],
+gridwidth:[1240,1024,778,480],
+gridheight:[968,800,960,920],
+lazyType:"none",
+shadow:0,
+spinner:"spinner3",
+stopLoop:"off",
+stopAfterLoops:-1,
+stopAtSlide:-1,
+shuffle:"off",
+autoHeight:"off",
+fullScreenAutoWidth:"off",
+fullScreenAlignForce:"off",
+fullScreenOffsetContainer: "",
+fullScreenOffset: "",
+disableProgressBar:"on",
+hideThumbsOnMobile:"off",
+hideSliderAtLimit:0,
+hideCaptionAtLimit:0,
+hideAllCaptionAtLilmit:0,
+debugMode:false,
+fallbacks: {
+simplifyAll:"off",
+nextSlideOnWindowFocus:"off",
+disableFocusListener:false,
+}
+});
+}
+});	/*ready*/
+</script>
+<script>
+var htmlDivCss = '	#rev_slider_4_1_wrapper .tp-loader.spinner3 div { background-color: #FFFFFF !important; } ';
+var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}
+else{
+var htmlDiv = document.createElement('div');
+htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<script>
+var htmlDivCss = unescape(".ares.tp-bullets%20%7B%0A%7D%0A.ares.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.ares%20.tp-bullet%20%7B%0A%09width%3A13px%3B%0A%09height%3A13px%3B%0A%09position%3Aabsolute%3B%0A%09background%3Argba%28229%2C%20229%2C%20229%2C%201%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.ares%20.tp-bullet%3Ahover%2C%0A.ares%20.tp-bullet.selected%20%7B%0A%09background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%7D%0A.ares%20.tp-bullet-title%20%7B%0A%20%20position%3Aabsolute%3B%0A%20%20color%3A136%2C%20136%2C%20136%2C%200%3B%0A%20%20font-size%3A0px%3B%0A%20%20padding%3A0px%2010px%3B%0A%20%20font-weight%3A600%3B%0A%20%20right%3A27px%3B%0A%20%20top%3A-4px%3B%20%20%0A%20%20background%3Argba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%20%20visibility%3Ahidden%3B%0A%20%20transform%3Atranslatex%28-20px%29%3B%0A%20%20-webkit-transform%3Atranslatex%28-20px%29%3B%0A%20%20transition%3Atransform%200.3s%3B%0A%20%20-webkit-transition%3Atransform%200.3s%3B%0A%20%20line-height%3A20px%3B%0A%20%20white-space%3Anowrap%3B%0A%7D%20%20%20%20%20%0A%0A.ares%20.tp-bullet-title%3Aafter%20%7B%0A%20%20%20%20width%3A%200px%3B%0A%09height%3A%200px%3B%0A%09border-style%3A%20solid%3B%0A%09border-width%3A%2010px%200%2010px%2010px%3B%0A%09border-color%3A%20transparent%20transparent%20transparent%20rgba%28255%2C%20255%2C%20255%2C%200%29%3B%0A%09content%3A%22%20%22%3B%0A%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20right%3A-10px%3B%0A%09top%3A0px%3B%0A%7D%0A%20%20%20%20%0A.ares%20.tp-bullet%3Ahover%20.tp-bullet-title%7B%0A%20%20visibility%3Avisible%3B%0A%20%20%20transform%3Atranslatex%280px%29%3B%0A%20%20-webkit-transform%3Atranslatex%280px%29%3B%0A%7D%0A%0A.ares%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%20%7B%0A%20%20%20%20background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%7D%0A.ares%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3Atransparent%20transparent%20transparent%20rgba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%7D%0A.ares.tp-bullets%3Ahover%20.tp-bullet-title%20%7B%0A%20%20visibility%3Ahidden%3B%0A%20%20%0A%7D%0A.ares.tp-bullets%3Ahover%20.tp-bullet%3Ahover%20.tp-bullet-title%20%7B%0A%20%20%20%20visibility%3Avisible%3B%0A%20%20%20%20transform%3AtranslateX%280px%29%20translatey%280px%29%3B%0A%20%20-webkit-transform%3AtranslateX%280px%29%20translatey%280px%29%3B%0A%7D%0A%0A%0A%2F%2A%20VERTICAL%20%2A%2F%0A.ares.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%20%7B%20right%3Aauto%3B%20left%3A27px%3B%20%20transform%3Atranslatex%2820px%29%3B%20-webkit-transform%3Atranslatex%2820px%29%3B%7D%20%20%0A.ares.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%3Aafter%20%7B%20%0A%20%20border-width%3A%2010px%2010px%2010px%200%20%21important%3B%0A%20%20border-color%3A%20transparent%20rgba%28255%2C%20255%2C%20255%2C%200%29%20transparent%20transparent%3B%0A%20%20right%3Aauto%20%21important%3B%0A%20%20left%3A-10px%20%21important%3B%20%20%20%0A%7D%0A.ares.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3A%20%20transparent%20rgba%28255%2C%20255%2C%20255%2C%201%29%20transparent%20transparent%20%21important%3B%0A%7D%0A%0A%0A%0A%2F%2A%20HORIZONTAL%20BOTTOM%20%26%26%20CENTER%20%2A%2F%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet-title%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet-title%20%7B%20top%3A-35px%3B%20left%3A50%25%3B%20right%3Aauto%3B%20transform%3A%20translateX%28-50%25%29%20translateY%28-10px%29%3B-webkit-transform%3A%20translateX%28-50%25%29%20translateY%28-10px%29%3B%20%7D%20%20%0A%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet-title%3Aafter%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet-title%3Aafter%20%7B%20%0A%20%20border-width%3A%2010px%2010px%200px%2010px%3B%0A%20%20border-color%3A%20rgba%28255%2C%20255%2C%20255%2C%200%29%20transparent%20transparent%20transparent%3B%0A%20%20right%3Aauto%3B%0A%20%20left%3A50%25%3B%0A%20%20margin-left%3A-10px%3B%0A%20%20top%3Aauto%3B%0A%20%20bottom%3A-10px%3B%0A%20%20%20%20%0A%7D%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3A%20%20rgba%28255%2C%20255%2C%20255%2C%201%29%20transparent%20transparent%20transparent%3B%0A%7D%0A%0A.ares.nav-dir-horizontal.nav-pos-ver-center%20.tp-bullet%3Ahover%20.tp-bullet-title%2C%0A.ares.nav-dir-horizontal.nav-pos-ver-bottom%20.tp-bullet%3Ahover%20.tp-bullet-title%7B%0A%20%20%20transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%20%20-webkit-transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%7D%0A%0A%0A%2F%2A%20HORIZONTAL%20TOP%20%2A%2F%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%20%7B%20top%3A25px%3B%20left%3A50%25%3B%20right%3Aauto%3B%20transform%3A%20translateX%28-50%25%29%20translateY%2810px%29%3B-webkit-transform%3A%20translateX%28-50%25%29%20translateY%2810px%29%3B%20%7D%20%20%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%3Aafter%20%7B%20%0A%20%20border-width%3A%200%2010px%2010px%2010px%3B%0A%20%20border-color%3A%20%20transparent%20transparent%20rgba%28255%2C%20255%2C%20255%2C%200%29%20transparent%3B%0A%20%20right%3Aauto%3B%0A%20%20left%3A50%25%3B%0A%20%20margin-left%3A-10px%3B%0A%20%20bottom%3Aauto%3B%0A%20%20top%3A-10px%3B%0A%20%20%20%20%0A%7D%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet.selected%3Ahover%20.tp-bullet-title%3Aafter%20%7B%0A%20%20border-color%3A%20%20transparent%20transparent%20%20rgba%28255%2C%20255%2C%20255%2C%201%29%20transparent%3B%0A%7D%0A%0A.ares.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet%3Ahover%20.tp-bullet-title%7B%0A%20%20%20transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%20%20-webkit-transform%3AtranslateX%28-50%25%29%20translatey%280px%29%3B%0A%7D%0A%0A%0A");
+var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}
+else{
+var htmlDiv = document.createElement('div');
+htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+</div><!-- END REVOLUTION SLIDER -->            </div>
+</div>
+<div id="main" class="column1 boxed no-breadcrumbs"><!-- main -->
+<div class="container">
+<div class="row main-content-wrap">
+<!-- main content -->
+<div class="main-content col-lg-12">
+<div id="content" role="main">
+<article class="post-718 page type-page status-publish hentry">
+<span class="entry-title" style="display: none;">Savanas</span><span class="vcard" style="display: none;"><span class="fn"><a href="http://savanas.com/author/rodrigobm/" title="Posts de Rodrigo Martins" rel="author">Rodrigo Martins</a></span></span><span class="updated" style="display:none">2019-05-08T15:37:43-03:00</span>
+<div class="page-content">
+<section id="InvestimentosRaizes" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section investrzs-sec vc_custom_1550509444130 vc_section-has-fill vc_section-o-content-middle vc_section-flex"><div class="vc_row wpb_row row"><div class="vc_column_container col-md-6" data-appear-animation="fadeIn"><div class="wpb_wrapper vc_column-inner"><h2 style="font-size: 30px;color: #b4af9c;line-height: 35px" class="vc_custom_heading text-italic align-left">Savanas é um single family office<br />
+com o DNA da família Motta</h2><div class="vc_empty_space"   style="height: 1em" ><span class="vc_empty_space_inner"></span></div>
+<h3 style="font-size: 25px;line-height: 35px" class="vc_custom_heading text-italic align-left">Somos realizadores.<br />
+Mais empreendedores e menos empresários.<br />
+Se chegamos até aqui, imprimimos nossa identidade com negócios que têm raízes fortes.<br />
+Não é apenas sobre perpetuar bens ou finanças, é sobre fazer investimentos com a nossa identidade, para transformar o planeta com dinâmica sustentável.</h3></div></div><div class="vc_column_container col-md-6"><div class="wpb_wrapper vc_column-inner"></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section id="Sobre" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section sobre-savanas vc_custom_1556310151794 vc_section-has-fill vc_section-o-content-middle vc_section-flex"><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 7em" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_row wpb_row row svns-sobre-bg"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_row wpb_row vc_inner row"><div class="vc_column_container col-md-1"><div class="wpb_wrapper vc_column-inner"></div></div><div class="vc_column_container col-md-4" data-appear-animation="fadeIn"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 2em" ><span class="vc_empty_space_inner"></span></div>
+<h2 style="font-size: 35px;color: #b4af9c;line-height: 40px" class="vc_custom_heading text-italic textinvert-mobile align-right">Raízes fortes<br />
+<strong>transformam</strong><br />
+o mundo.</h2></div></div><div class="vc_column_container col-md-6" data-appear-animation="fadeIn"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 2.2em" ><span class="vc_empty_space_inner"></span></div>
+<div class="wpb_text_column wpb_content_element  text-white text-large" >
+<div class="wpb_wrapper">
+<p>É orgulho de quem produz e respeito por quem construiu. É preocupação com a diversidade. É incluir para somar. Quando só é bom pra gente, vira herança. Quando é bom pro mundo, vira impacto social. <strong>O Savanas não é o que a família Motta tem. </strong><strong>E sim o que ela pode proporcionar.</strong></p>
+</div>
+</div>
+<div class="vc_empty_space"   style="height: 1em" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_btn3-container  btn-svns-light vc_btn3-left" >	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-color-grey" href="http://savanas.com/quem-somos/" title="">continue lendo</a></div></div></div><div class="vc_column_container col-md-1"><div class="wpb_wrapper vc_column-inner"></div></div></div><div class="vc_row wpb_row vc_inner row vc_row-o-content-middle vc_row-flex"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 9em" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 6em" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12 vc_custom_1556581377707"><div class="wpb_wrapper vc_column-inner"><style type="text/css">.vc_custom_1556309933436{margin-bottom: 0px !important;}</style><div class="porto-block "><section id="Contato" class="vc_section contact-svns"><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 3em" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><h2 style="font-size: 50px;color: #b4af9c;line-height: 60px;text-align: center" class="vc_custom_heading text-italic vc_custom_1556309933436">Fale Conosco</h2><div class="vc_empty_space"   style="height: 1em" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_row wpb_row row"><div class="vc_column_container col-md-1"><div class="wpb_wrapper vc_column-inner"></div></div><div class="contact-svnsbg vc_column_container col-md-10"><div class="wpb_wrapper vc_column-inner"><div role="form" class="wpcf7" id="wpcf7-f744-p852-o1" lang="pt-BR" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f744-p852-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="744" />
+<input type="hidden" name="_wpcf7_version" value="5.1.3" />
+<input type="hidden" name="_wpcf7_locale" value="pt_BR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f744-p852-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="852" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="row">
+<div class="col-md-2">
+<div class="form-group-contato-svns">
+<span class="wpcf7-form-control-wrap contatosvns-nome"><input type="text" name="contatosvns-nome" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contatosvns-nome" aria-required="true" aria-invalid="false" placeholder="Nome" /></span>
+</div></div>
+<div class="col-md-2">
+<div class="form-group-contato-svns">
+<span class="wpcf7-form-control-wrap contatosvns-telefone"><input type="number" name="contatosvns-telefone" value="" class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number form-control" id="contatosvns-telefone" aria-invalid="false" placeholder="Telefone" /></span>
+</div></div>
+<div class="col-md-4">
+<div class="form-group-contato-svns">
+<span class="wpcf7-form-control-wrap contatosvns-empresa"><input type="text" name="contatosvns-empresa" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="contatosvns-empresa" aria-required="true" aria-invalid="false" placeholder="Empresa" /></span>
+</div></div>
+<div class="col-md-4">
+<div class="form-group-contato-svns">
+<span class="wpcf7-form-control-wrap contatosvns-email"><input type="email" name="contatosvns-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" id="contatosvns-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span>
+</div></div>
+<div class="col-md-12">
+<div class="form-group-contato-svns">
+<span class="wpcf7-form-control-wrap contatosvns-obs"><textarea name="contatosvns-obs" cols="40" rows="1" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" id="contatosvns-obs" aria-required="true" aria-invalid="false" placeholder="Mensagem"></textarea></span>
+</div></div>
+<div class="col-md-12">
+<div class="form-group-contatosvnsbt botao-forms">
+<input type="submit" value="enviar" class="wpcf7-form-control wpcf7-submit btn btnsvns-light-form" />
+</div></div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div><div class="vc_column_container col-md-1"><div class="wpb_wrapper vc_column-inner"></div></div></div><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space"   style="height: 3em" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></section><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner">
+<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+<div class="wpb_wrapper">
+<style>
+.contact-svns {
+margin-bottom: -100px;
+background-color: #3f3e3e !important;
+position: relative;
+z-index: 1 !important;
+box-shadow: 0 2px 20px 2px #3f3e3e36;
+border-radius: 2px !important;
+}
+.contact-svnsbg {
+background-image: url(http://savanas.com/wp-content/uploads/2019/01/Savanas-Home-Contato.png) !important;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: contain;
+}
+section#Contato {
+max-width: 80% !important;
+left: 10%;
+margin-right: 0px;
+margin-left: 0px;
+}
+@media only screen and (max-width: 1269px) {
+.form-group-contato-svns input, .form-group-contato-svns textarea {
+font-size: 14px;
+}
+}
+</style>
+</div>
+</div>
+</div></div></div></div></div></div></div>
+</div>
+</article>
+<div class="">
+</div>
+</div>
+        
+</div><!-- end main content -->
+</div>
+</div>
+</div><!-- end main -->
+<div class="footer-wrapper ">
+<div id="footer" class="footer-1">
+<div class="footer-main">
+<div class="container">
+<div class="row">
+<div class="col-lg-4">
+<aside id="text-2" class="widget widget_text"><h3 class="widget-title">Contatos</h3>			<div class="textwidget"><p>+55 62 3414 6500<br />
+<a class="text-decoration-none" href="mail:contato@savanas.com"><span class="action-info">contato@savanas.com</span></a></p>
+</div>
+</aside>                                </div>
+<div class="col-lg-4">
+<aside id="text-3" class="widget widget_text"><h3 class="widget-title">Onde Estamos</h3>			<div class="textwidget"><p>Ed. Connect Park Business,<br />
+Av. T-12 com T-37 — Qd, 123<br />
+26° Andar | Setor Bueno<br />
+Goiânia, GO<br />
+74.223-080 — Brasil</p>
+</div>
+</aside>                                </div>
+<div class="col-lg-4">
+<aside id="text-4" class="widget widget_text"><h3 class="widget-title">Privacidade</h3>			<div class="textwidget"><p><a href="http://savanas.com/termos-uso/">Termos de uso</a></p>
+</div>
+</aside>                                </div>
+<div class="col-lg-12">
+<aside id="media_image-2" class="widget widget_media_image"><a href="http://savanas.com"><img width="60" height="60" src="http://savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPhone.png" class="image wp-image-729  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="http://savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPhone.png 60w, http://savanas.com/wp-content/uploads/2019/01/Savanas-Favicon-AppleiPhone-50x50.png 50w" sizes="(max-width: 60px) 100vw, 60px" /></a></aside><aside id="follow-us-widget-2" class="widget follow-us">        <div class="share-links disable-br">
+<a href="https://www.linkedin.com/company/savanas"  rel="nofollow" target="_blank" title="Linkedin" class="share-linkedin">Linkedin</a>                    </div>
+</aside>                                </div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="footer-center">
+© 2019 Savanas | Todos os direitos reservados. Site desenvolvido pela <a href="http://www.kardia.com.br/">Agência Kardia</a>.                </div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- end wrapper -->
+<!--[if lt IE 9]>
+<script src="http://savanas.com/wp-content/themes/Savanas/js/html5shiv.min.js"></script>
+<script src="http://savanas.com/wp-content/themes/Savanas/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+function revslider_showDoubleJqueryError(sliderID) {
+var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+jQuery(sliderID).show().html(errorMessage);
+}
+</script>
+<link rel='stylesheet' property='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css'  href='//fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&#038;ver=5.2.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/savanas.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://savanas.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LeAs68UAAAAANeOv4L8ZcMhYFf7MTmLs7dfry8P&#038;ver=3.0'></script>
+<script type='text/javascript' src='http://savanas.com/wp-includes/js/comment-reply.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='http://savanas.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var js_porto_vars = {"rtl":"","ajax_url":"http:\/\/savanas.com\/wp-admin\/admin-ajax.php","change_logo":"0","container_width":"1240","grid_gutter_width":"30","show_sticky_header":"1","show_sticky_header_tablet":"0","show_sticky_header_mobile":"0","ajax_loader_url":"\/\/savanas.com\/wp-content\/themes\/Savanas\/images\/ajax-loader@2x.gif","category_ajax":"","prdctfltr_ajax":"","show_minicart":"0","slider_loop":"1","slider_autoplay":"1","slider_autoheight":"1","slider_speed":"5000","slider_nav":"","slider_nav_hover":"1","slider_margin":"","slider_dots":"1","slider_animatein":"","slider_animateout":"","product_thumbs_count":"4","product_zoom":"1","product_zoom_mobile":"1","product_image_popup":"1","zoom_type":"inner","zoom_scroll":"1","zoom_lens_size":"200","zoom_lens_shape":"square","zoom_contain_lens":"1","zoom_lens_border":"1","zoom_border_color":"#888888","zoom_border":"0","screen_lg":"1270","mfp_counter":"%curr% of %total%","mfp_img_error":"<a href=\"%url%\">The image<\/a> could not be loaded.","mfp_ajax_error":"<a href=\"%url%\">The content<\/a> could not be loaded.","popup_close":"Close","popup_prev":"Previous","popup_next":"Next","request_error":"The requested content cannot be loaded.<br\/>Please try again later."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://savanas.com/wp-content/themes/Savanas/js/theme.min.js?ver=4.2'></script>
+<script type='text/javascript' src='http://savanas.com/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+var wpcf7recaptcha = {
+execute: function( action ) {
+grecaptcha.execute(
+sitekey,
+{ action: action }
+).then( function( token ) {
+var forms = document.getElementsByTagName( 'form' );
+for ( var i = 0; i < forms.length; i++ ) {
+var fields = forms[ i ].getElementsByTagName( 'input' );
+for ( var j = 0; j < fields.length; j++ ) {
+var field = fields[ j ];
+if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+field.setAttribute( 'value', token );
+break;
+}
+}
+}
+} );
+},
+executeOnHomepage: function() {
+wpcf7recaptcha.execute( actions[ 'homepage' ] );
+},
+executeOnContactform: function() {
+wpcf7recaptcha.execute( actions[ 'contactform' ] );
+},
+};
+grecaptcha.ready(
+wpcf7recaptcha.executeOnHomepage
+);
+document.addEventListener( 'change',
+wpcf7recaptcha.executeOnContactform, false
+);
+document.addEventListener( 'wpcf7submit',
+wpcf7recaptcha.executeOnHomepage, false
+);
+} )(
+grecaptcha,
+'6LeAs68UAAAAANeOv4L8ZcMhYFf7MTmLs7dfry8P',
+{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+$('.custom-faq-toggle article.faq').eq(0).find('.toggle').addClass('active');
+$('.custom-faq-toggle article.faq').eq(0).find('.toggle-content').show();
+});                    </script>
+</body>
+</html><!-- WP Fastest Cache file was created in 2.2021729946136 seconds, on 26-07-19 11:39:22 -->
