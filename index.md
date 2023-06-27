@@ -9,10 +9,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  * Tea
  * Coffee
  * Cappuccino
- 
- ![My Snapshot](images/mohammad-Rafeeq-photo.jpg)
- 
- 
+  
  ### Ordered List
  
  1. Television

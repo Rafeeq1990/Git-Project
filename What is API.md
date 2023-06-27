@@ -8,6 +8,12 @@ APIs enable developers to integrate different systems, services, or data sources
 
 APIs can serve various purposes, such as retrieving data from a remote server, sending data to a server, performing actions or operations, authenticating users, and more. They are widely used in web and mobile development, enabling developers to leverage the functionality and data of external services, libraries, or platforms to enhance their own applications.
 
+## Beverages
+
+- [x] Tea
+- [ ] Coffee
+- [ ] Milk
+
 
 
 
